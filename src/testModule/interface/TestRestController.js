@@ -1,6 +1,6 @@
 import express from "express";
 import asyncHandler from "express-async-handler";
-import TestServicePort from "../core/ports/TestServicePort";
+import TestServicePort from "../core/_TestServicePort";
 
 export default class TestRestController{
 

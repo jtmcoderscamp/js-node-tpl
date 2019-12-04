@@ -1,4 +1,4 @@
-import TestRepositoryPort from "../core/ports/TestRepositoryPort";
+import TestRepositoryPort from "../core/_TestRepositoryPort";
 
 export default class MockTestRepository extends TestRepositoryPort {
     constructor() {

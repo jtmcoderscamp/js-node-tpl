@@ -1,4 +1,4 @@
-import TestRepositoryPort from "./TestRepositoryPort";
+import TestRepositoryPort from "./_TestRepositoryPort";
 
 /**
  * An abstract class describing the expected behavior of TestService implementations
