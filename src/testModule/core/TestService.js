@@ -1,5 +1,5 @@
-import TestServicePort from "../ports/TestServicePort";
-import TestRepositoryPort from "../ports/TestRepositoryPort";
+import TestServicePort from "./_TestServicePort";
+import TestRepositoryPort from "./_TestRepositoryPort";
 
 export default class TestService extends TestServicePort {
 

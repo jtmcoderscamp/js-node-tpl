@@ -2,7 +2,7 @@ import express from "express";
 import dotenv from "dotenv";
 import TestRestController from "./testModule/interface/TestRestController";
 import MockTestRepository from "./testModule/infrastructure/MockTestRepository";
-import TestService from "./testModule/core/services/TestService";
+import TestService from "./testModule/core/TestService";
 
 dotenv.config();
 const app = express();
